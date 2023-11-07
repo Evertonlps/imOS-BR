@@ -1,9 +1,9 @@
-# **What is imOS?**
-imOS is a modified version of Windows 10 that has been optimized to improve performance, reduce system delays, and enhance overall functionality.
+# **O que é imOS?**
+é uma versão modificada do Windows 10 que foi otimizada para melhorar o desempenho, reduzir delays do sistema e aprimorar a funcionalidade geral.
 
-imOS is an open source project and it comes preconfigured. This means that you will not need to apply any additional settings other than those already built into imOS.
+imOS é um projeto de código aberto e vem pré-configurado. Isso significa que você não precisará aplicar nenhuma configuração adicional além daquelas já incorporadas ao imOS.
 
 
-# Join our Discord server
+# Entre no Discord oficial
 
 [imOS Discord](https://dsc.gg/imos)
