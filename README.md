@@ -5,9 +5,9 @@ imOS é um projeto de código aberto e vem pré-configurado. Isso significa que 
 ![image](https://github.com/Evertonlps/imOS-BR/assets/11205881/9018f78d-7fbd-4825-81a6-26d0e75a1fff)
 
 
-+ 1ª Versão PT-BR - Base imOS/Windows Build 22H2 >[19045.2728](https://github.com/Evertonlps/imOS-BR/releases/tag/19045.2728) < *Voltando para linguagem original.
-+ 2ª Versão PT-BR [19045.2728.v6](https://github.com/Evertonlps/imOS-BR/releases/tag/19045.2728.v2)
-+  'Instalador em Inglês, no final, "na versão 2" ficará em Português'.
++ 1ª Versão PT-BR - Base imOS/Windows Build 20H2 >[v5](https://github.com/Evertonlps/imOS-BR/releases/tag/v5) < *Voltando para linguagem original.
++ 2ª Versão PT-BR (Última) - Base Windows/imOS Build 22H2 [19045.2728.v6](https://github.com/Evertonlps/imOS-BR/releases/tag/v6)
++  'Instalador pode inciar em Inglês, no final ficará em Português', isso e normal em sistema modificado traduzido.
 +  
 **EXECUTÁVEIS USADOS NA VERSÃO/MODIFICAÇÃO, LISTADOS ACIMA, NA LISTA DE ARQUIVOS**
 # Entre no Discord oficial
